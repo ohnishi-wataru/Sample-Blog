@@ -1,0 +1,115 @@
+body {
+  background-color: #fff;
+  font-size: 14px;
+  margin: 0;
+}
+
+h1,h2,h3,h4,h5 {
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.container {
+  width: 920px;
+  margin: 0 auto 40px auto;
+}
+
+.header-title-area {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 26px;
+}
+
+.header-navigation {
+  width: 100%;
+  background-color: #000;
+  padding: 20px 0;
+}
+
+.header-navigation:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+
+.header-navigation li {
+  float: left;
+  padding: 0 30px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.header-navigation li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.left-contents {
+  width: 600px;
+  margin-right: 20px;
+  float: left;
+}
+
+.right-contents {
+  width: 300px;
+  float: left;
+}
+
+.text-title time {
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+
+.text-title h2 {
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #66ffff;
+}
+.text-title p {
+  margin-bottom: 20px;
+  font-size: 10px;
+}
+
+.text-title2 p {
+  font-size: 15px;
+  margin-top: 5px;
+  color: #66ffff;
+}
+
+.card-contents:last-child {
+  margin-right: 0;
+}
+
+.left-image {
+  width: 120px;
+  height: 120px;
+  float: left;
+}
+
+.text-title2 img {
+  width: 35px;
+  height: 35px;
+  float: left;
+}
+
+.copyright {
+  color: #777;
+  text-align: center;
+}
+
+.main:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
